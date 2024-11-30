@@ -1,2 +1,5 @@
-# image-to-base64-converter
-Transform images into base64 strings quickly with Image to base64 Converter. Perfect for web development, embedding images in code, or data optimization. Supports PNG, JPEG, GIF, and more. Simple, fast, and secure—convert your images in just a few clicks.
+# Image to Base64 Converter <br>
+HTML + JavaScript + CSS <br>
+developed by Tawhidur Rahman Dear, https://www.tawhidurrahmandear.com <br>
+Live Preview available at https://www.devilhunter.net/p/image-to-base64-converter.html <br>
+Released under GPL-3.0 license on Github at https://github.com/tawhidurrahmandear 
